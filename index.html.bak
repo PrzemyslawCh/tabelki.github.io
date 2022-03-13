@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Tabelki</title>
+	</head>
+	<body>
+		<table border="0" width="100%">		
+		<tr></tr>
+		<tr><td colspan="5">1</td></tr>
+		<tr></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
+		</table>		
+	</body
+</html>
